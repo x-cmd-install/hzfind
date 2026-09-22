@@ -14,15 +14,14 @@ x install hzfind
 
 ## Code insight
 
-Total: **2,763** lines of code across **16** files in the top 5 languages.
+Total: **2,519** lines of code across **12** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,642 | 25 | 266 | 8 |
-| Yaml | 86 | 0 | 0 | 1 |
+| Rust | 2,497 | 21 | 256 | 7 |
 | Toml | 21 | 0 | 3 | 1 |
-| Json | 14 | 0 | 0 | 2 |
-| Markdown | 0 | 93 | 50 | 4 |
+| Json | 1 | 0 | 0 | 1 |
+| Markdown | 0 | 74 | 50 | 3 |
 
 ## Source
 
@@ -35,18 +34,18 @@ Total: **2,763** lines of code across **16** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 19
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 21
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-25 | 0 | 1 | 0 | 1 | 0 | 18 |
-| 360d | 2025-09-26 | 0 | 1 | 0 | 1 | 0 | 18 |
-| last720d | 2024-10-01 | 0 | 1 | 0 | 1 | 0 | 19 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-26 | 0 | 1 | 0 | 1 | 0 | 20 |
+| 360d | 2025-09-27 | 0 | 1 | 0 | 1 | 0 | 20 |
+| last720d | 2024-10-02 | 0 | 1 | 0 | 1 | 0 | 21 |
 
 ## Improve this data
 
@@ -57,4 +56,4 @@ Install metadata for hzfind lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:23:13Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:13:44Z._
